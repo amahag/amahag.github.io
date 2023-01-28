@@ -22,8 +22,8 @@ author: Amaha Ghide
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - LinkedIn: "www.linkedin.com/in/amahaghide"
-    - Email: "amahaghide@gmail.com"
+    - LinkedIn: "https://www.linkedin.com/in/amahaghide"
+    - Email: "https://amahaghide@gmail.com"
     - Twitter: "https://twitter.com/prison_friends"
   Resume: "resume"
 
