@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I'm Amaha. A fourth-year computer science student currently living in Dallas, Texas
 ---
 
 My name is Inigo Montoya. I have the following qualities:
