@@ -25,7 +25,7 @@ navbar-links:
     - LinkedIn: "www.linkedin.com/in/amahaghide"
     - Email: "amahaghide@gmail.com"
     - Twitter: "https://twitter.com/prison_friends"
-  Resume: "resume"
+  # Resume: "resume"
 
 ################
 # --- Logo --- #
