@@ -2,8 +2,8 @@
 layout: post
 title: My Experience as a Computer Science Tutor
 subtitle: Using Google's CS First Program
-cover-img: # /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+#cover-img: /assets/img/path.jpg
+#thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [Google, CS First, drag-and-drop, programming]
 ---
@@ -14,4 +14,4 @@ That is, until I found Google's CS First program. Google's CS First program is a
 
 A few weeks after my brother started, he showed a few of his friends from school one of the animations he had made in the program. They must have been interested in his mini-project as one of his parents reached out to me asking if I would be willing to spend some time with her son explaining the program and walking him through the steps to build his own animation. I had no problem with this and within a week, another parent had reached out to me. By the end of the summer, I had tutored 35 students, all between the age of 8 and 14, on how to make their own games and animations in Google's CS First program. I had a lot of fun throughout the process and I am incredibly grateful to have had such an experience. Many of the students still reach out to me today with questions about the great ideas they are trying to build in the platform. Here are some of the projects that my students have done!
 
-Include a couple pictures of projects they made
+![First photo?](assets/img/img1.png)
