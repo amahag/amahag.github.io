@@ -5,7 +5,7 @@ subtitle: Using Google's CS First Program
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Google, CS First, drag-and-drop, programming]
+tags: [Google, CS First, drag-and-drop, Scratch, programming]
 ---
 
 In June of 2021, my parents ran into the same problem that every family runs into: how do we keep our child(in this case, my youngest brother) entertained without playing video games or watching TV? They researched summer camps and summer classes but kept running into the same issues; too expensive, too short to be effective, too far away, or any of the other problems that are accompanied by summer activities. After a lot of time spent searching and very little to show for it, we were left frustrated at the lack of educational summer programs in our area.
