@@ -17,5 +17,5 @@ A few weeks after my brother started, he showed a few of his friends from school
 ![suck my nuts or something?](/assets/img/img1.png)
 A baseball animation made by our eleven-y/o neighbor
 
-![or dont its whatever?](/assets/img/img2.png)
+![or dont its whatever?](/assets/img/img2.PNG)
 An animation referencing video games made by my little brother
