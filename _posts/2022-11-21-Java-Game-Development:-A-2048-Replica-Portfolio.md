@@ -19,7 +19,7 @@ this by generating a .dat file whenever the player saves the game. The file cont
 including the state of the board and the total number of moves. I used the Java I/O library to manage the reading and writing of the .dat
 file, making it easy for players to save their progress and continue the game later. 
 
-The highest score I've achieved on my replica is 2048 and I invite you to beat it. Check out the source code here!hyperlink it or see a few
+The highest score I've achieved on my replica is 2048 and I invite you to beat it. Check out the source code here!hyperlink it or see these
 screenshots of the game in action.
 
 
