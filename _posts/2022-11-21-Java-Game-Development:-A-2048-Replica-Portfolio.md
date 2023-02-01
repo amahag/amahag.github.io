@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Java Game Development: A 2048 Replica
-subtitle: Java UI/UX and Interactive Gaming in Action
+title: My Experience as a Computer Science Tutor
+subtitle: Using Google's CS First Program
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Java, JavaFX, drag-and-drop, Scratch, programming]
+tags: [Google, CS First, drag-and-drop, Scratch, programming]
 ---
 
 
