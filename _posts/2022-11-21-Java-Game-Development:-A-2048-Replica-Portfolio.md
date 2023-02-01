@@ -5,7 +5,7 @@ subtitle: Making a 2048 Replica
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Java, JavaFX, drag-and-drop, Scratch, programming]
+tags: [Java, JavaFX, UI/UX, debugging, testing, I/O file handling]
 ---
 
 In August of 2022, I decided to build a replica of the popular game 2048. The project was a great opportunity for me to demonstrate
