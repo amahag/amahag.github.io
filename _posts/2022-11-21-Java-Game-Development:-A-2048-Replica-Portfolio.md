@@ -14,7 +14,7 @@ appealing interface nearly identical to the original game, with cards getting li
 decided to track the number of moves made by the player and their total score, which was calculated from the total value of the cards
 they had made.
 
-The most interesting feature I decided to implement was making the option to save the current game and reload it at another time. I did
+One important feature I decided to implement was making the option to save the current game and reload it at another time. I did
 this by generating a .dat file whenever the player saves the game. The file contains all the necessary information to recreate the game,
 including the state of the board and the total number of moves. I used the Java I/O library to manage the reading and writing of the .dat
 file, making it easy for players to save their progress and continue the game later. 
