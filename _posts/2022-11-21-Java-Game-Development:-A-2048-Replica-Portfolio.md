@@ -17,5 +17,8 @@ include final score,
 ![programInAction](/assets/img/snip1.PNG)
 The program in action
 
+
+
+
 ![2048SuccessScreen](/assets/img/withLabel.PNG)
 2048!
