@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Java Game Development A 2048 Replica
-subtitle: Using Google's CS First Program
+title: Java Game Development
+subtitle: Making a 2048 Replica
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Google, CS First, drag-and-drop, Scratch, programming]
+tags: [Java, JavaFX, drag-and-drop, Scratch, programming]
 ---
 
 
