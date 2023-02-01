@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Game Development: A 2048 Replica
+title: Java Game Development A 2048 Replica
 subtitle: Using Google's CS First Program
 #cover-img: /assets/img/path.jpg
 #thumbnail-img: /assets/img/thumb.png
